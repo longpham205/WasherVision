@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C# / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+
+# Data & models (lớn, không commit)
+data/**/*.png
+data/**/*.jpg
+data/**/*.bmp
+*.onnx
+*.ckpt
+results/
+
+# Private: personal planning/notes, kept local only (not published)
+CLAUDE.md
+AGENTS.md
+docs/PLAN.md
+docs/PROGRESS.md

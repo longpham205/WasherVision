@@ -1,0 +1,7 @@
+{
+  "_note": "Giá trị mẫu cho vòng đệm M10 — sửa theo kích thước đo bằng thước kẹp của bạn",
+  "outer_diameter_mm": { "nominal": 20.0, "tol": 0.2 },
+  "inner_diameter_mm": { "nominal": 10.5, "tol": 0.2 },
+  "min_circularity": 0.95,
+  "max_center_offset_mm": 0.3
+}
